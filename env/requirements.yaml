@@ -15,7 +15,7 @@ dependencies:
   version: 2.3.82
 - name: golang-http
   repository: http://jenkins-x-chartmuseum:8080
-  version: v0.0.6
+  version: v0.0.5
 - name: spring-boot-http-gradle
   repository: http://jenkins-x-chartmuseum:8080
   version: v0.0.1
