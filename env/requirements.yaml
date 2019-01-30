@@ -30,4 +30,4 @@ dependencies:
   version: v0.0.1
 - name: test-golang
   repository: http://jenkins-x-chartmuseum:8080
-  version: v0.0.1
+  version: v0.0.11
